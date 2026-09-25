@@ -1,0 +1,5 @@
+spectrum,approx_corrected_wt_percent,normalization_peak_cm-1,normalization_peak_height_raw_units,internal_mode_proxy_1000_1800_plus_2700_3100
+MeOH nominal 2%,0.5791690541865672,89.1623,0.24831322,36.78742894222299
+MeOH nominal 4%,3.221695184838442,89.6082,0.9335551,210.22187887722293
+MeOH nominal 8% / anchored 8.3%,8.3,83.5647,1.95563076,571.5842228672229
+Pure methanol minus small Al can,,126.417,2.8102443,536.5819953529999

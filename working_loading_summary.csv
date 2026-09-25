@@ -1,0 +1,6 @@
+species,nominal_label,anchor,approx_retained_wt_percent,status
+methanol,2 wt%,8.3 wt% high-loading sample,0.58,provisional INS-derived relative loading
+methanol,4 wt%,8.3 wt% high-loading sample,3.22,provisional INS-derived relative loading
+methanol,8 wt% nominal; measured 8.3 wt%,8.3 wt%,8.3,anchor
+1-propanol,2 wt%,8 wt% high-loading sample,3.89,provisional; requires further checking
+1-propanol,8 wt%,8 wt%,8.0,anchor assumption
