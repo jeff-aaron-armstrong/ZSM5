@@ -2,7 +2,7 @@
 
 **RB 2620468 · H-ZSM-5, Si/Al ≈ 140**
 
-These plots use the **full measured TOSCA data in the displayed range**. No spectral downsampling is applied: each trace contains **980 measured points between 20 and 1700 cm⁻¹**.
+These plots use the **full measured TOSCA data in the displayed range**. No spectral downsampling is applied: each trace contains **980 unique measured points between 20 and 1700 cm⁻¹**.
 
 ## Processing used here
 
